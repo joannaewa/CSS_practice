@@ -7,3 +7,5 @@ Technologies: CSS, HTML.
 Maybe in the future I will add some JavaScript.
 
 Project is not finished yet - I plan to keep developing it.
+
+Live: https://joannaewa.github.io/CSS_practice/
